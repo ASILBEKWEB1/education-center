@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.register > #nav_btn1 {
+    width: 120px;
+    font-size: 15px;
+    color: black;
+    font-weight: bold;
+    background: rgb(243, 243, 243) ;
+}
+#nav_btn2{
+    width: 140px;
+    font-size: 15px;
+    color: white;
+    font-weight: bold;
+    background: rgb(17, 182, 17);
+}
